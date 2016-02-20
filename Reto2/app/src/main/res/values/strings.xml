@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reto2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="company_name">Pokemons!</string>
+    <string name="user_name">Pokemon</string>
+    <string name="password">Tipo</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="title_activity_pokemon_list">Pokemon List</string>
+    <string name="title_activity_pokemon_item">Pokemon Item</string>
+</resources>
